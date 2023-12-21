@@ -5,7 +5,7 @@
 
 ## JUPYTER NOTEBOOK
  - Do your work in the partA.ipynb file, this is the file you will submit on gradescope. DO NOT CHANGE THE NAME
- - Submit on Gradescope in the  THE Final Exam - PROGRAMMING   assignment. 
+ - Submit on Gradescope in the  **Final Exam - PROGRAMMING**   assignment. 
 
 ## DASHBOARD INTERACTION VIDEO FILE
  - This file shows you what the interaction is for the last question
