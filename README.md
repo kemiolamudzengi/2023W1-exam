@@ -1,1 +1,13 @@
-START WITH THE PDF FILE
+# INSTRUCTIONS FOR PROGRAMMING PART OF THE EXAM
+
+## START WITH THE PDF FILE
+ - Read this file as it has the images, and instructions for the programming part of the exam
+
+## JUPYTER NOTEBOOK
+ - Do your work in the partA.ipynb file, this is the file you will submit on gradescope. DO NOT CHANGE THE NAME
+
+## DASHBOARD INTERACTION VIDEO FILE
+ - This file shows you what the interaction is for the last question
+
+## CSV FILES
+ - We have already created the necessary dataframes from this files, do not change how the data is read in.
