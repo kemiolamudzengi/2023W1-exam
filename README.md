@@ -12,3 +12,11 @@
 
 ## CSV FILES
  - We have already created the necessary dataframes from this files, do not change how the data is read in.
+
+## GENERAL ADVICE
+- The exam is LONG.
+- Pace yourself
+- There are multiple ways for you to demonstrate your ability
+- Start with what you know how to do
+- Always run your file before submitting. 
+- Save your file often.
